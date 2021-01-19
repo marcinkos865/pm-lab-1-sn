@@ -3,12 +3,12 @@ Nazwa:  pm-lab-1-sn
 Autor:  Paweł Dąbal (pawel.dabal@wat.edu.pl)  
 Opis:   Projekt bazowy repozytorium na pierwsze spotkanie laboratoryjne z przedmiotu *Programowanie mikrokontrolerów*.  
 Wersja: v1.0  
-Data:   03.04.2020 r.  
+Data:   19.01.2021 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
-Grupa studencka:            WELE18X1N1
+Imię i nazwisko studenta:   Marcin Kos  
+Numer albumu:               63879
+Grupa studencka:            WEL18DE1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
