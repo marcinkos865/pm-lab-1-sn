@@ -6,7 +6,7 @@ Wersja: v1.0
 Data:   19.01.2021 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Marcin Kos asd
+Imię i nazwisko studenta:   Marcin Kos
 Numer albumu:               63879
 Grupa studencka:            WEL18DE1N1
 
